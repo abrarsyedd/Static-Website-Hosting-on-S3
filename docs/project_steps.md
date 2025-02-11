@@ -1,5 +1,8 @@
 # Project Steps: Static Website Hosting on S3
 
+## 🚀 Project Overview
+A cost-effective, secure, and scalable solution to host static websites on AWS S3 with custom domain, HTTPS, and CloudFront CDN. Amazon S3 is a reliable and scalable storage service. This project demonstrates how I successfully hosted a fully functional static website on S3, utilizing its static hosting capabilities, security features, and cost efficiency.
+
 ## 🌟 Key Features of the Project
 - **Custom Domain Integration**: Hosted the website on a custom domain name with DNS routing via Route 53.
 - **Secure Hosting**: Implemented HTTPS using AWS Certificate Manager (ACM) and CloudFront.
