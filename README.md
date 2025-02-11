@@ -11,4 +11,4 @@ A cost-effective approach to host static websites using the highly available AWS
 📖 Detailed Project Steps
 Find the full implementation guide in [docs/project_steps.md](docs/project_steps.md).
 
-📸 Architecture Diagram
+🔗 [View the full project documentation](docs/project_steps.md)
