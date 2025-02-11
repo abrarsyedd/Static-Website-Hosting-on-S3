@@ -47,3 +47,7 @@
 - Gained **hands-on experience** in serverless architecture and cloud hosting.
 - Enhanced my understanding of **DNS, CDN, and HTTPS implementation**.
 - Delivered a **cost-effective hosting solution** suitable for personal projects or businesses.
+
+---
+## 📸 Architecture Diagram
+![AWS Architecture](../images/S3-arch.png)
