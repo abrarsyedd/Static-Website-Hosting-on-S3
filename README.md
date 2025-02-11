@@ -8,7 +8,7 @@ A cost-effective approach to host static websites using the highly available AWS
 - Fast content delivery with Amazon CloudFront
 - Access logging and monitoring with AWS CloudWatch
 
-📖 Detailed Project Steps
+## 📖 Detailed Project Steps
 Find the full implementation guide in [docs/project_steps.md](docs/project_steps.md).
 
 🔗 [View the full project documentation](docs/project_steps.md)
