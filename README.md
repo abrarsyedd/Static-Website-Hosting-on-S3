@@ -1,5 +1,5 @@
 # Static-Website-Hosting-on-S3
-A cost-effective, secure, and scalable solution to host static websites on AWS S3 with custom domain, HTTPS, and CloudFront CDN. Amazon S3 is a reliable and scalable storage service. This project demonstrates how I successfully hosted a fully functional static website on S3, utilizing its static hosting capabilities, security features, and cost efficiency.
+A cost-effective approach to host static websites using the highly available AWS S3 service.
 
 🌟 Features
 - Secure and scalable static website hosting on S3
